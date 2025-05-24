@@ -29,32 +29,30 @@ Implement follow-up question handling
 
 Expand document database
 
-Here are some questions from the documents Litigation Questions: "What are the steps involved in filing a lawsuit in India?" "How does the court hierarchy work in India?" "What is the role of an advocate in Indian legal proceedings?" "What happens after a lawsuit is filed in an Indian court?" "What is the process for serving summons in India?" Corporate Law Questions: "How is a company formed in India?" "What are the requirements for corporate governance in India?" "What are the key taxation laws applicable to companies in India?" "What is the process for obtaining a Director Identification Number in India?" "What are the mandatory committees required for public companies in India?" General Legal Questions: "What is the difference between civil and criminal cases in India?" "What are the legal requirements for board meetings in Indian companies?" "How does Corporate Social Responsibility work in India?" "What are the different types of advocates in the Indian legal system?" "What is the role of the Registrar of Companies in India?" About No description, website, or topics provided. Resources Readme Activity Stars 0 stars Watchers 0 watching Forks 0 forks Releases No releases published Create a new release Packages No packages published Publish your first package Languages Python 68.9%
+Here are some questions from the documents Litigation Questions: 
 
-JavaScript 12.9%
+### Litigation Questions:
 
-CSS 12.1%
+1. "What are the steps involved in filing a lawsuit in India?"
+2. "How does the court hierarchy work in India?"
+3. "What is the role of an advocate in Indian legal proceedings?"
+4. "What happens after a lawsuit is filed in an Indian court?"
+5. "What is the process for serving summons in India?"
 
-HTML 6.0%
 
-Procfile 0.1% Suggested workflows Based on your tech stack Python Package using Anaconda logo Python Package using Anaconda Create and test a Python package on multiple Python versions using Anaconda for package management. Python application logo Python application Create and test a Python application. Pylint logo Pylint Lint a Python application with pylint. More workflows Footer
+### Corporate Law Questions:
 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Footer
-© 2025
+1. "How is a company formed in India?"
+2. "What are the requirements for corporate governance in India?"
+3. "What are the key taxation laws applicable to companies in India?"
+4. "What is the process for obtaining a Director Identification Number in India?"
+5. "What are the mandatory committees required for public companies in India?"
+
+
+### General Legal Questions:
+
+1. "What is the difference between civil and criminal cases in India?"
+2. "What are the legal requirements for board meetings in Indian companies?"
+3. "How does Corporate Social Responsibility work in India?"
+4. "What are the different types of advocates in the Indian legal system?"
+5. "What is the role of the Registrar of Companies in India?"
